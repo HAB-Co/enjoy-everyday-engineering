@@ -34,3 +34,9 @@
 - モデルにおけるselfの有無
     - 結構曖昧なので要勉強
 - RailsでJavaScriptの使い方
+
+# 11日
+## 学習内容
+- RailsでJSを使用する方法
+    - app/assetsとapp/javascriptの二箇所のディレクトリが存在していて、どちらに配置するべきか理解ができていない
+        - 【曖昧な回答】Rails6からwebpackの関係でapp/javascriptを使用するのか？
