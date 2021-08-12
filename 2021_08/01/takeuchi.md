@@ -40,3 +40,13 @@
 - RailsでJSを使用する方法
     - app/assetsとapp/javascriptの二箇所のディレクトリが存在していて、どちらに配置するべきか理解ができていない
         - 【曖昧な回答】Rails6からwebpackの関係でapp/javascriptを使用するのか？
+
+# 12日
+## 学習内容
+- webpackerとは何か？
+    - webpackとwebpackerは全くの別物
+- webpackとは？
+    - 画像ファイルやCSSファイル、JavaScriptファイルをひとまとめにする技術のこと
+    - Q.なぜひとまとめにするの？
+        - A.まとめることでレスポンス時間が早くなる
+            - 別々の場所からファイルを読み込むと全てを読み込むまでに時間がかかる
